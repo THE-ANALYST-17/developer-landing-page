@@ -292,6 +292,10 @@ small{
     font-weight: 600;
     padding-left: 20px;
 }
+.input-section:focus{
+    outline: none;
+
+}
 .download-email form{
     background-color:#e9edff ;
     border-radius: 20px;
